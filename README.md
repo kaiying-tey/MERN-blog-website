@@ -31,5 +31,5 @@ Images
 ## **Contact**
 
 Feel free to reach out for suggestions or issues: \
-[Your Email Address] \
-[Your LinkedIn or Portfolio Link]
+kaiying001@gmail.com \
+https://www.linkedin.com/in/kai-ying-tey-2773301b8/
