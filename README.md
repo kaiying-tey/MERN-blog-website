@@ -22,9 +22,36 @@ My very first project of a full stack web. This is a simple responsive blogging 
 
 ---
 
+## **How to Run Locally**
+
+1. Clone the repo
+```
+git clone https://github.com/kaiying-tey/MERN-blog-website.git
+```
+
+2. Run Backend
+```
+cd api
+npm install
+npm start
+```
+
+3. Run Frontend (Open a new terminal)
+```
+cd client
+npm install
+npm start
+```
+
+---
+
 ## **Some Screenshots**
 
-Images
+![Website Preview](images/MainPage.png)
+
+![Website Preview](images/ListOfPosts.png)
+
+![Website Preview](images/RegisterPage.png)
 
 ---
 
